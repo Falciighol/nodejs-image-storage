@@ -9,6 +9,7 @@ This nodejs app use to upload and store image into mysql database, stroing image
 # Configure nodejs application
 <p>Copy all files of this git repo into 'c:/project_folder' and run below command</p>
 <p>c:/project_folder> npm install</p>
+<p>c:/project_folder> npm i --g nodemon</p>
 
 # Run node js application server
 c:/project_folder> npm start
