@@ -3,15 +3,17 @@ This nodejs app use to upload and store image into mysql database, stroing image
 
 
 # Create db and table
-<p>Create 'test' name database into mysql.</p>
-<p>Run user.sql file to create user table into 'test' database.</p>
+Create `test` name database into mysql.
+Run user.sql file to create user table into `test` database.
 
 # Configure nodejs application
-<p>Copy all files of this git repo into `c:/project_folder` and run below command</p>
-<p>
-  `c:/project_folder> npm install`
-  `c:/project_folder> npm i --g nodemon`
-</p>
+Copy all files of this git repo into `c:/project_folder` and run below command
+
+```
+c:/project_folder> npm install
+c:/project_folder> npm i --g nodemon
+```
+
 
 # Run node js application server
 `c:/project_folder> npm start`
