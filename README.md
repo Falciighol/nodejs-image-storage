@@ -1,8 +1,5 @@
-# nodejs image upload example
+# Node.js image upload example
 This nodejs app use to upload and store image into mysql database, stroing image into folder using MIME stream and image path into database table.
-
-
-
 
 
 # Create db and table
@@ -14,7 +11,7 @@ This nodejs app use to upload and store image into mysql database, stroing image
 <p>c:/project_folder> npm install</p>
 
 # Run node js application server
-c:/project_folder> node app.js
+c:/project_folder> npm start
 
 # Test nodejs application
-open http://project_name:8080 on browser.
+open http://localhost:3000 on browser.
