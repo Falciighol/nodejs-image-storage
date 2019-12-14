@@ -15,6 +15,9 @@ restful-api/.gitignore
 928a064 11 days ago
 104 lines (76 sloc)  1.57 KB
   
+# Custom directories
+public/images/upload_images
+
 # Logs
 logs
 *.log
